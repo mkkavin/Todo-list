@@ -2,13 +2,13 @@
 A simple web application for managing your daily tasks. This project allows you to add, delete, and mark tasks as completed. Tasks are stored locally in the browser's localStorage, ensuring your list persists even after refreshing the page.
 
 # Features
-Add Tasks:
+Add Tasks:<br>
 Enter a task and click the "+" button to add it to your list.
-Delete Tasks:
+Delete Tasks:<br>
 Click the trash icon to delete a task. Tasks animate out before removal.
-Complete Tasks:
+Complete Tasks:<br>
 Click the checkmark icon to mark a task as completed. Completed tasks have a strike-through effect.
-Filter Tasks: 
+Filter Tasks: <br>
 Select from "All", "Completed", or "Incomplete" to filter tasks based on their completion status.
 
 # Technologies Used
