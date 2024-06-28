@@ -14,7 +14,8 @@ JavaScript: Functionality and interaction of the To Do List.
 Font Awesome: Icons for buttons (fa-plus-circle, fa-check-circle, fa-trash).
 Google Fonts: Styling the text with the "Poppins" font.
 
-# Hosted link : todo-list-kavin.netlify.app
+# Hosted link : 
+todo-list-kavin.netlify.app
 
 
 
